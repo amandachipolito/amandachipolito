@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/biomedicalengineering.png" alt="Banner Amanda Hipólito">
+</p>
+
 <h1 align="center">Amanda Cruz Hipólito</h1>
 
 <p align="center">
