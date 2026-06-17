@@ -94,21 +94,27 @@ Implementation of classical image processing techniques including:
 ## GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=amandachipolito&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandachipolito&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amandachipolito&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandachipolito&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amandachipolito&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## Learning Journey
+## Contact
+
+<p align="center"> <a href="mailto:amandinha.hipolito@hotmail.com"> <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/amandachipolito/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> 
+
+---
+
+## Current Development Areas
 
 ```text
-Biomedical Engineering      ████████░░
-Signal Processing           ███████░░░
-Machine Learning            ██████░░░░
-Computational Neuroscience  ██████░░░░
-Digital Image Processing    ██████░░░░
-Scientific Research         ███████░░░
+Biomedical Engineering      ███████░░░ 70%
+Signal Processing           ██████░░░░ 60%
+Machine Learning            █████░░░░░ 50%
+Computational Neuroscience  ████░░░░░░ 40%
+Digital Image Processing    ██████░░░░ 60%
+Scientific Research         █████░░░░░ 50%
